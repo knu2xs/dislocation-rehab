@@ -22,18 +22,12 @@ Your ability to reach 160° actively suggests:
 ### Warm‑up (3–5 minutes)
 
 #### Scapular retraction and depression
-[![Scapular Retraction Exercise](https://img.youtube.com/vi/bQG2d4aRx4k/hqdefault.jpg)](https://www.youtube.com/watch?v=bQG2d4aRx4k){ target="_blank" }
-
 :fontawesome-brands-youtube:{ .youtube } **[Watch: Scapular Retraction Exercise](https://www.youtube.com/watch?v=bQG2d4aRx4k){ target="_blank" }**
 
 #### Gentle pendulums if comfortable
-[![Codman's Pendulum Exercise](https://img.youtube.com/vi/VVVj3MK9-5M/hqdefault.jpg)](https://www.youtube.com/watch?v=VVVj3MK9-5M){ target="_blank" }
-
 :fontawesome-brands-youtube:{ .youtube } **[Watch: Codman's Pendulum Exercise](https://www.youtube.com/watch?v=VVVj3MK9-5M){ target="_blank" }**
 
 #### Elbow, wrist, and hand mobility
-[![Upper Extremity Range of Motion](https://img.youtube.com/vi/J4UJP9Z6rNQ/hqdefault.jpg)](https://www.youtube.com/watch?v=J4UJP9Z6rNQ){ target="_blank" }
-
 :fontawesome-brands-youtube:{ .youtube } **[Watch: Upper Extremity Range of Motion](https://www.youtube.com/watch?v=J4UJP9Z6rNQ){ target="_blank" }**  
 
 ---
@@ -42,18 +36,12 @@ Your ability to reach 160° actively suggests:
 These help maintain smooth mechanics and prevent compensations.
 
 #### AAROM scaption (supine → upright)
-[![Active Assisted Scaption](https://img.youtube.com/vi/_L3Y0PQwBRA/hqdefault.jpg)](https://www.youtube.com/watch?v=_L3Y0PQwBRA){ target="_blank" }
-
 :fontawesome-brands-youtube:{ .youtube } **[Watch: Active Assisted Scaption](https://www.youtube.com/watch?v=_L3Y0PQwBRA){ target="_blank" }**
 
 #### AAROM forward elevation
-[![Active Assisted Shoulder Flexion](https://img.youtube.com/vi/Wki1FIzmZ9Y/hqdefault.jpg)](https://www.youtube.com/watch?v=Wki1FIzmZ9Y){ target="_blank" }
-
 :fontawesome-brands-youtube:{ .youtube } **[Watch: Active Assisted Shoulder Flexion](https://www.youtube.com/watch?v=Wki1FIzmZ9Y){ target="_blank" }**
 
 #### AAROM ER with a stick (0°–60° abduction)
-[![External Rotation with Stick/Wand](https://img.youtube.com/vi/Uqb3_fKaE4Y/hqdefault.jpg)](https://www.youtube.com/watch?v=Uqb3_fKaE4Y){ target="_blank" }
-
 :fontawesome-brands-youtube:{ .youtube } **[Watch: External Rotation with Stick/Wand](https://www.youtube.com/watch?v=Uqb3_fKaE4Y){ target="_blank" }**
 
 Do 5–10 slow reps, 1–2 times per day.
@@ -64,24 +52,16 @@ Do 5–10 slow reps, 1–2 times per day.
 Since you can reach 160° actively, focus on *quality*:
 
 #### Active scaption to your comfortable limit
-[![Active Scaption Exercise](https://img.youtube.com/vi/RVjjC0mCyeI/hqdefault.jpg)](https://www.youtube.com/watch?v=RVjjC0mCyeI){ target="_blank" }
-
 :fontawesome-brands-youtube:{ .youtube } **[Watch: Active Scaption Exercise](https://www.youtube.com/watch?v=RVjjC0mCyeI){ target="_blank" }**
 
 #### Active ER at your side
-[![Active External Rotation](https://img.youtube.com/vi/M6I8kPprL5k/hqdefault.jpg)](https://www.youtube.com/watch?v=M6I8kPprL5k){ target="_blank" }
-
 :fontawesome-brands-youtube:{ .youtube } **[Watch: Active External Rotation](https://www.youtube.com/watch?v=M6I8kPprL5k){ target="_blank" }**
 
 #### Active elevation with minimal upper‑trap shrugging
-[![Shoulder Forward Flexion (proper form)](https://img.youtube.com/vi/fLtovgq0RXw/hqdefault.jpg)](https://www.youtube.com/watch?v=fLtovgq0RXw){ target="_blank" }
-
 :fontawesome-brands-youtube:{ .youtube } **[Watch: Shoulder Forward Flexion (proper form)](https://www.youtube.com/watch?v=fLtovgq0RXw){ target="_blank" }**
 
 #### Slow lowering (eccentric control)
 This is especially helpful for shoulder stability.
-
-[![Eccentric Shoulder Control](https://img.youtube.com/vi/HqW8S50AHl4/hqdefault.jpg)](https://www.youtube.com/watch?v=HqW8S50AHl4){ target="_blank" }
 
 :fontawesome-brands-youtube:{ .youtube } **[Watch: Eccentric Shoulder Control](https://www.youtube.com/watch?v=HqW8S50AHl4){ target="_blank" }**
 
@@ -90,8 +70,6 @@ Keep movements slow and controlled. Mild discomfort is okay; sharp pain is not.
 ---
 
 ### Posture and movement control
-
-[![Proper Shoulder Mechanics & Scapular Control](https://img.youtube.com/vi/hJXp8D3v5Yg/hqdefault.jpg)](https://www.youtube.com/watch?v=hJXp8D3v5Yg){ target="_blank" }
 
 :fontawesome-brands-youtube:{ .youtube } **[Watch: Proper Shoulder Mechanics & Scapular Control](https://www.youtube.com/watch?v=hJXp8D3v5Yg){ target="_blank" }**
 
