@@ -22,13 +22,19 @@ Your ability to reach 160° actively suggests:
 ### Warm‑up (3–5 minutes)
 
 #### Scapular retraction and depression
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bQG2d4aRx4k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Scapular Retraction Exercise](https://img.youtube.com/vi/bQG2d4aRx4k/hqdefault.jpg)](https://www.youtube.com/watch?v=bQG2d4aRx4k){ target="_blank" }
+
+:fontawesome-brands-youtube:{ .youtube } **[Watch: Scapular Retraction Exercise](https://www.youtube.com/watch?v=bQG2d4aRx4k){ target="_blank" }**
 
 #### Gentle pendulums if comfortable
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VVVj3MK9-5M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Codman's Pendulum Exercise](https://img.youtube.com/vi/VVVj3MK9-5M/hqdefault.jpg)](https://www.youtube.com/watch?v=VVVj3MK9-5M){ target="_blank" }
+
+:fontawesome-brands-youtube:{ .youtube } **[Watch: Codman's Pendulum Exercise](https://www.youtube.com/watch?v=VVVj3MK9-5M){ target="_blank" }**
 
 #### Elbow, wrist, and hand mobility
-<iframe width="560" height="315" src="https://www.youtube.com/embed/J4UJP9Z6rNQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+[![Upper Extremity Range of Motion](https://img.youtube.com/vi/J4UJP9Z6rNQ/hqdefault.jpg)](https://www.youtube.com/watch?v=J4UJP9Z6rNQ){ target="_blank" }
+
+:fontawesome-brands-youtube:{ .youtube } **[Watch: Upper Extremity Range of Motion](https://www.youtube.com/watch?v=J4UJP9Z6rNQ){ target="_blank" }**  
 
 ---
 
@@ -36,13 +42,19 @@ Your ability to reach 160° actively suggests:
 These help maintain smooth mechanics and prevent compensations.
 
 #### AAROM scaption (supine → upright)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_L3Y0PQwBRA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Active Assisted Scaption](https://img.youtube.com/vi/_L3Y0PQwBRA/hqdefault.jpg)](https://www.youtube.com/watch?v=_L3Y0PQwBRA){ target="_blank" }
+
+:fontawesome-brands-youtube:{ .youtube } **[Watch: Active Assisted Scaption](https://www.youtube.com/watch?v=_L3Y0PQwBRA){ target="_blank" }**
 
 #### AAROM forward elevation
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wki1FIzmZ9Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Active Assisted Shoulder Flexion](https://img.youtube.com/vi/Wki1FIzmZ9Y/hqdefault.jpg)](https://www.youtube.com/watch?v=Wki1FIzmZ9Y){ target="_blank" }
+
+:fontawesome-brands-youtube:{ .youtube } **[Watch: Active Assisted Shoulder Flexion](https://www.youtube.com/watch?v=Wki1FIzmZ9Y){ target="_blank" }**
 
 #### AAROM ER with a stick (0°–60° abduction)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Uqb3_fKaE4Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![External Rotation with Stick/Wand](https://img.youtube.com/vi/Uqb3_fKaE4Y/hqdefault.jpg)](https://www.youtube.com/watch?v=Uqb3_fKaE4Y){ target="_blank" }
+
+:fontawesome-brands-youtube:{ .youtube } **[Watch: External Rotation with Stick/Wand](https://www.youtube.com/watch?v=Uqb3_fKaE4Y){ target="_blank" }**
 
 Do 5–10 slow reps, 1–2 times per day.
 
@@ -52,18 +64,26 @@ Do 5–10 slow reps, 1–2 times per day.
 Since you can reach 160° actively, focus on *quality*:
 
 #### Active scaption to your comfortable limit
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RVjjC0mCyeI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Active Scaption Exercise](https://img.youtube.com/vi/RVjjC0mCyeI/hqdefault.jpg)](https://www.youtube.com/watch?v=RVjjC0mCyeI){ target="_blank" }
+
+:fontawesome-brands-youtube:{ .youtube } **[Watch: Active Scaption Exercise](https://www.youtube.com/watch?v=RVjjC0mCyeI){ target="_blank" }**
 
 #### Active ER at your side
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M6I8kPprL5k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Active External Rotation](https://img.youtube.com/vi/M6I8kPprL5k/hqdefault.jpg)](https://www.youtube.com/watch?v=M6I8kPprL5k){ target="_blank" }
+
+:fontawesome-brands-youtube:{ .youtube } **[Watch: Active External Rotation](https://www.youtube.com/watch?v=M6I8kPprL5k){ target="_blank" }**
 
 #### Active elevation with minimal upper‑trap shrugging
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fLtovgq0RXw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Shoulder Forward Flexion (proper form)](https://img.youtube.com/vi/fLtovgq0RXw/hqdefault.jpg)](https://www.youtube.com/watch?v=fLtovgq0RXw){ target="_blank" }
+
+:fontawesome-brands-youtube:{ .youtube } **[Watch: Shoulder Forward Flexion (proper form)](https://www.youtube.com/watch?v=fLtovgq0RXw){ target="_blank" }**
 
 #### Slow lowering (eccentric control)
 This is especially helpful for shoulder stability.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HqW8S50AHl4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Eccentric Shoulder Control](https://img.youtube.com/vi/HqW8S50AHl4/hqdefault.jpg)](https://www.youtube.com/watch?v=HqW8S50AHl4){ target="_blank" }
+
+:fontawesome-brands-youtube:{ .youtube } **[Watch: Eccentric Shoulder Control](https://www.youtube.com/watch?v=HqW8S50AHl4){ target="_blank" }**
 
 Keep movements slow and controlled. Mild discomfort is okay; sharp pain is not.
 
@@ -71,7 +91,9 @@ Keep movements slow and controlled. Mild discomfort is okay; sharp pain is not.
 
 ### Posture and movement control
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hJXp8D3v5Yg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Proper Shoulder Mechanics & Scapular Control](https://img.youtube.com/vi/hJXp8D3v5Yg/hqdefault.jpg)](https://www.youtube.com/watch?v=hJXp8D3v5Yg){ target="_blank" }
+
+:fontawesome-brands-youtube:{ .youtube } **[Watch: Proper Shoulder Mechanics & Scapular Control](https://www.youtube.com/watch?v=hJXp8D3v5Yg){ target="_blank" }**
 
 This is where you can make the biggest gains right now.
 
